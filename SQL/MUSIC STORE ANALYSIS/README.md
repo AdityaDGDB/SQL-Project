@@ -8,7 +8,7 @@
 The "Music Store Insights" project utilizes SQL to analyze a digital music store database, extracting valuable insights to support strategic decision-making and business growth. This comprehensive examination covers various aspects such as geographical expansion, purchasing behavior, revenue metrics, genre dynamics, and artist popularity.
 
 ## Project Schema
-
+![Schema](schema_diagram.png)
 
 
 ## Queries Solved
